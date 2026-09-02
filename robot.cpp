@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-int battery=30;
+int battery=50;
 cout<<"robot is running with battery of"<<battery<<"%"<<endl;
 return 0;
 }
